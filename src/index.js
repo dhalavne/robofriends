@@ -1,10 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './Card.css';
-import CardList from './CardList'
 import reportWebVitals from './reportWebVitals';
 import 'tachyons';
-import App from './App';
+import App from './containers/App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
