@@ -1,0 +1,16 @@
+.card {
+    background-color:aquamarine;
+    width: 20vw;
+    border-radius: 10px;
+    margin: 0 auto;
+    
+  
+}
+
+
+
+
+
+.card:hover {
+    background-color: grey;
+}
